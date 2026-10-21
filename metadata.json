@@ -1,0 +1,6 @@
+{
+  "name": "QuantNova - Stock Analytics & Improvised Prediction Model",
+  "description": "Advanced Data Analytics and Improvised Hybrid Ensemble Stock Price Prediction platform with multi-factor quantitative modeling, backtesting, and institutional AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
